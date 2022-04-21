@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## 🌚 about me
 
 + I'm currently learning **HTML, CSS, ReactJs, NodeJs and Javascript**
++ I'm an enthusiastic reader, my favourite author being james clear
 
 ## 🌚 languages and tools i've worked with
 <p align="left">
