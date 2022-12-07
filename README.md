@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
+  </a>
    <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -50,6 +53,9 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDb" width="40" height="40"/> 
   </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="40" height="40"/> 
+  </a>  
    <a href="https://www.php.net/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="40" height="40"/> 
   </a>
