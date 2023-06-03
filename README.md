@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/schndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="schndra" height="30" width="40" /></a>
 <a href="https://twitter.com/sch_dra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="schndra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhishek-fernando-2a4103230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="schndra" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/abhishek-fernando-2a4103230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="schndra" height="30" width="40" /></a> -->
 <br>
