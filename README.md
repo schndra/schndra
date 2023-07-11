@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🌚 about me
 
-+ I'm currently learning **HTML, CSS, ReactJs, NodeJs and Javascript**
++ I'm currently learning **Java, Spring Boot, ReactJs, NodeJs and TypeScript**
 + I'm an enthusiastic reader📚
 
 ## 🌚 languages and tools i've worked with
