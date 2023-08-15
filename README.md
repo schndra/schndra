@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Hi there! im Schndra </h1>
+<h1 align="center"> 🚀 Hi there! im Abhishek </h1>
 
 <!--
 **schndra/schndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
