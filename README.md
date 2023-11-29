@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Hi there! im Abhishek </h1>
 
-## 🌚 about me
+## ✨ about me
 
 🌱 I’m currently learning Java, Spring Boot and PostgreSQL.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌚 languages and tools i've worked with
+## ✨ languages and tools i've worked with
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
