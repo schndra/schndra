@@ -1,5 +1,17 @@
 <h1 align="center"> 🚀 Hi there! im Abhishek </h1>
 
+## 🌚 about me
+
+🌱 I’m currently learning Java, Spring Boot and PostgreSQL.
+
+📚 I'm an enthusiastic reader.
+
+💬 Ask me about angular,react and tailwindcss.
+
+📫 To reach me contact me on Twitter.
+
+⚡ Fun fact: I'm Sri Lankan!
+
 <!--
 **schndra/schndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌚 about me
-
-+ I'm currently learning **Java, Spring Boot, Next.JS, NodeJS and TypeScript**
-+ I'm an enthusiastic reader📚
 
 ## 🌚 languages and tools i've worked with
 <p align="left">
@@ -64,7 +72,5 @@ Here are some ideas to get you started:
 ## ✨ connect with me
 <h3 align="left">my socials</h3>
 <p align="left">
-<a href="https://codepen.io/schndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="schndra" height="30" width="40" /></a>
 <a href="https://twitter.com/sch_dra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="schndra" height="30" width="40" /></a>
-<!-- <a href="https://www.linkedin.com/in/abhishek-fernando-2a4103230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="schndra" height="30" width="40" /></a> -->
 <br>
