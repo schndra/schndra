@@ -2,7 +2,7 @@
 
 ## ✨ about me
 
-🌱 I’m currently learning Java, Spring Boot and PostgreSQL.
+🌱 I’m currently learning NextJs, Java, Spring Boot and PostgreSQL.
 
 📚 I'm an enthusiastic reader.
 
