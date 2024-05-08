@@ -1,5 +1,7 @@
 <h1 align="center"> 🚀 Hi there! im Abhishek </h1>
 
+<img align="right" style="z-index: 9999;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa295ZG5scmw2a3Boa2E3ZDV4cTVpbXZwOHc2ZG15cm5la3YzaW82dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HGQ4RWHYtw9Dmhj7mk/giphy.gif">
+
 ## ✨ about me
 
 🌱 I’m currently learning NextJs, Java, Spring Boot and PostgreSQL.
@@ -28,6 +30,7 @@ Here are some ideas to get you started:
 -->
 
 ## ✨ languages and tools i've worked with
+
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -62,7 +65,7 @@ Here are some ideas to get you started:
   <a href="https://dev.mysql.com/doc/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySql" width="40" height="40"/> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
+  <a href="https://www.mongodb.com/" target="_blank" > 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDb" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
@@ -74,6 +77,7 @@ Here are some ideas to get you started:
 </p>
 
 ## ✨ connect with me
+
 <h3 align="left">my socials</h3>
 <p align="left">
 <a href="https://twitter.com/sch_dra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="schndra" height="30" width="40" /></a>
